@@ -6,6 +6,7 @@ namespace InterfaceExercise
 {
     public class SUV : IVehicle, ICompany
     {
+
         public SUV()
         {
         }
